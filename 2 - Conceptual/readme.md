@@ -1,10 +1,8 @@
 Syntax Parses:
 
-Lexical Environment:
-    Se refere a sintaxe, o vacabulário.
+Lexical Environment: Se refere a sintaxe, o vacabulário.
 
-Execution Context:
-    Ajuda a gerenciar o código que está rodando.
+Execution Context: Ajuda a gerenciar o código que está rodando.
 
 Name/Value Pair:
 
@@ -28,5 +26,6 @@ Variable Enviroment:
 
 Scope Chain:
 
-Scope: Onde a variável está disponivel no código
+Scope: Onde a variável está disponivel no código.
 
+Asynchronus: Mais de um no mesmo tempo.
