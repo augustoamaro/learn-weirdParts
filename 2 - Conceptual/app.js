@@ -13,3 +13,6 @@ var myvar = 1;
 console.log(myvar) // 1
 a();
 console.log(myvar); // 1
+
+
+console.log(1 == '1')

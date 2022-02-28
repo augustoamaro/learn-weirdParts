@@ -1,1 +1,3 @@
 # js-weirdParts
+
+use strict
