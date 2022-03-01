@@ -15,3 +15,7 @@ Precedence: Qual operador da função é chamado antes. Maior ganha.
 Associativity: Qual operador de ordem da função é chamado em: esquerda-direita ou direita esquerda.
 
 Coercion: Converte um valor de um tipo para outro.
+
+Thennable Object? Um objeto que tem a função 'then'.
+
+Syntactic Sugar: Features feitos para escrever códigos mais eficientes e limpos.
