@@ -55,3 +55,5 @@ Thennable Object? Um objeto que tem a função 'then'.
 Syntactic Sugar: Features feitos para escrever códigos mais eficientes e limpos.
 
 Namespace: Um container para variáveis e funções. Manter os dois com o mesmo nome seperado.
+
+First Class Functions: Tudo que você consegue fazer com outros tipos, você consegue fazer com funções
