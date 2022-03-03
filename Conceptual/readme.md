@@ -53,3 +53,5 @@ Coercion: Converte um valor de um tipo para outro.
 Thennable Object? Um objeto que tem a função 'then'.
 
 Syntactic Sugar: Features feitos para escrever códigos mais eficientes e limpos.
+
+Namespace: Um container para variáveis e funções. Manter os dois com o mesmo nome seperado.
