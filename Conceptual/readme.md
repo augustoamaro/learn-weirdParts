@@ -56,4 +56,6 @@ Syntactic Sugar: Features feitos para escrever códigos mais eficientes e limpos
 
 Namespace: Um container para variáveis e funções. Manter os dois com o mesmo nome seperado.
 
-First Class Functions: Tudo que você consegue fazer com outros tipos, você consegue fazer com funções
+First Class Functions: Tudo que você consegue fazer com outros tipos, você consegue fazer com funções.
+
+Expression: Uma unidade de codigo que resulta em valor
