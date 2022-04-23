@@ -66,3 +66,5 @@ Inheritance: Um objeto acessa a propriedade e métodos de outro objeto.
 Reflection: Um objeto que olha para ele mesmo, escutando e mudando as propriedades e métodos.
 
 Function Constructors: Uma função que é usada para contruir objetos. (this aponta para um novo objeto que é retornado para função automaticamente)
+
+Polyfill:
